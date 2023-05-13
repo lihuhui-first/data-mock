@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0",
+        "title": "稻香",
+        "author": "周杰伦",
+        "albumn": "魔杰座",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweMiusic/稻香.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/稻香.mp3"
+    },
+    {
+        "id": "1",
+        "title": "蓝莲花",
+        "author": "许巍",
+        "albumn": "时光·漫步",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweiMusic/蓝莲花-许巍.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/蓝莲花-许巍.mp3"
+    },
+    {
+        "id": "2",
+        "title": "故乡",
+        "author": "许巍",
+        "albumn": "那一年",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweiMusic/故乡-许巍.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/故乡.mp3"
+    },
+    {
+        "id": "3",
+        "title": "像我这样的人",
+        "author": "毛不易",
+        "albumn": "平凡的一天",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweiMusic/像我这样的人(Live)-毛不易.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/像我这样的人.mp3"
+    },
+    {
+        "id": "4",
+        "title": "花海",
+        "author": "周杰伦",
+        "albumn": "魔杰座",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweiMusic/花海-周杰伦.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/花海.mp3"
+    },
+    {
+        "id": "5",
+        "title": "我会等",
+        "author": "承桓",
+        "albumn": "",
+        "lyric": "https://github.com/lihuhui-first/data-mock/huaweiMusic/我会等-承恒.json",
+        "url": "https://github.com/lihuhui-first/data-mock/huaweiMusic/我会等.mp3"
+    }
+]
